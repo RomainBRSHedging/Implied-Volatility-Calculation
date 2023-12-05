@@ -1,2 +1,2 @@
-# Implied-Volatility-Calculation (soon)
-Newton-Raphson, GARCH 
+# Implied-Volatility-Calculatio
+Dichotomie, Newton-Raphson, GARCH (soon)
