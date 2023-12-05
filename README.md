@@ -1,2 +1,3 @@
 # Implied Volatility Calculation & Historical Volatility Calculation
-Dichotomie, Newton-Raphson, GARCH(soon)
+Implied Vol: Dichotomie, Newton-Raphson
+Historical Vol: GARCH(soon)
