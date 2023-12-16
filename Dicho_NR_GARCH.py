@@ -108,7 +108,7 @@ if __name__ == '__main__':
     Prix_BS_Call = BS_Call.prix_BS(S0,sigma)
 
     BS_Call_vol = lambda sigma: BS_Call.prix_BS(S0,sigma) - True_price 
-    Init = np.sqrt(abs(np.log(S0/(K*np.exp(-r*T))))*2/T) # Valeur initial Optimal
+    Init = np.sqrt(abs(np.log(S0/(K*np.exp(-r*T))))*2/T) # Valeur initiale Optimale
 
 
 
